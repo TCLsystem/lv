@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">SportsLover</string>
+    <string name="action_settings">Settings</string>
+    <string name="sports_friend_search_hint">Serch</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+
+
+    <!-- 注册 -->
+    <string name="register_title">register</string>
+    <string name="register_phone_default">Please input phone number</string>
+    <string name="register_check_num_default">Please input check number</string>
+    <string name="register_get_check_num">Get check number</string>
+    <string name="register_upass_default">Need  combination of numbers, letters and symbols </string>
+    <string name="register_info">I have readed and agree the 《User agreement》of SportsLover</string>
+
+
+    <string name="new_friends">newFriends</string>
+    <string name="close">close</string>
+
+
+
+
+
+
+
+    <string name="help_dialog_text">
+    <i>开发者：TCL云创科技有限公司2017届雏鹰</i>
+    \n
+    \n
+    <i>联系：zhijiao.li@tcl.com</i>
+    \n
+    \n
+    <b>SportsLover是一款运动类型的App,目前只开发Andaroid版本。</b>
+    <b>该App具有丰富的功能，针对不同类型的运动，进行运动规划，同时你还可以发布自己的活动以及参与别人发布的活动，兼具社交和运动的功能</b>
+    \n
+    \n
+    <b>有任何建议或者反馈可以随时联系开发团队</b>
+    </string>
+
+
+    <!-- myFragment -->
+    <string name="personalData">personal data</string>
+    <string name="sportsRecords">records</string>
+    <string name="weeklyGoals">weekly goal</string>
+    <string name="myRoute">my route</string>
+    <string name="myActivity">my activity</string>
+    <string name="settings">settings</string>
+
+    <!--personal data-->
+    <string name="profilePhoto">Profile photo</string>
+    <string name="Name">Name</string>
+    <string name="Gender">Gender</string>
+    <string name="Height">Height</string>
+    <string name="Weight">Weight</string>
+    <string name="Brithday">Brithday</string>
+    <string name="editeName">A good name can make your friend remember you better</string>
+
+    <!--sendDynamic-->
+    <string name="sendDynamic1">Public Activity (1/2)</string>
+    <string name="sendDynamic2">Public Activity (2/2)</string>
+    <string name="motionType">Sports Type</string>
+    <string name="publicTime">Public Time</string>
+    <string name="startTime">Start Time</string>
+    <string name="endTime">End Time</string>
+    <string name="place">Sports Place</string>
+    <string name="area">Sports Area</string>
+
+
+
+</resources>

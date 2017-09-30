@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="yellow_page_search_bg">#fffffbfa</color>
+    <color name="black">#ff000000</color>
+    <color name="login_form_hint">#ffb5b5b5</color>
+    <color name="transparent">#00000000</color>
+    <color name="yellow_light">#ffefa717</color>
+    <color name="white">#ffffffff</color>
+
+    <color name="normal_bg_color">#66E0DFE0</color>
+    <color name="normal_orange_color">#FF6633</color>
+    <color name="location_city_bg">#e1e1e0</color>
+
+    <color name="base_color_text_gray">#9fa0a0</color>
+    <color name="home_item_color_bg">#f4f6f6</color>
+    <color name="base_color_text_black">#3e3e39</color>
+    <color name="gray">#9fa0b7</color>
+    <color name="common_blue">#0fffcb</color>
+
+
+
+
+    <declare-styleable name="SeekCircle">
+        <attr name="max" format="integer" value="100" />
+        <attr name="progress" format="integer" value="0" />
+        <attr name="startColor" format="color" />
+        <attr name="endColor" format="color" />
+        <attr name="inactiveColor" format="color" />
+        <attr name="ringBias" format="float" />
+        <attr name="sectionRatio" format="float" />
+    </declare-styleable>
+    <declare-styleable name="CircularRing">
+        <attr name="roundColor" format="color" />
+        <attr name="roundProgressColor" format="color" />
+        <attr name="circleRoundWidth" format="dimension" />
+        <attr name="circleWidth" format="dimension" />
+        <attr name="circleTextColor" format="color" />
+        <attr name="circleNumber" format="integer" />
+        <attr name="circleTextSize" format="dimension" />
+        <attr name="circleColor1" format="color" />
+        <attr name="circleColor2" format="color" />
+        <attr name="circleColor3" format="color" />
+        <attr name="circleColor4" format="color" />
+        <attr name="circleColor5" format="color" />
+    </declare-styleable>
+</resources>
